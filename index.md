@@ -1,6 +1,8 @@
 ---
-Hi, I'm Estitxu Larralde
+title: "Data Analyst Portfolio"
+date: 2022/10/24
 ---
+Hi!  I'm Estitxu Larralde
 
 A multilingual Data Analyst with a solid background in finance and sales. 
 I love learning, looking for trends in data and communicating my findings.
