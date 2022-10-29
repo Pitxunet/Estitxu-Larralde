@@ -2,6 +2,7 @@ title: My Portfolio
 author: Estitxu Larralde Erasun
 description: A glimpse of my data projects
 remote_theme: pages-themes/cayman@v0.2.0
+incremental: true
 plugins:
 - jekyll-remote-theme
 - jekyll-default-layout
