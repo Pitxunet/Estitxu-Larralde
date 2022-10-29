@@ -1,6 +1,7 @@
 ---
 title: "Analysis of WeRateDogs Twitter account posts"
 date: 2022-10-24
+regenerate: true
 ---
 In this project I: 
 - gathered the data from three different sources
