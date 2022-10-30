@@ -10,4 +10,10 @@ I like working with SQL, Excel, Python and Tableau.
 Get in touch with me on LinkedIn.
 
 ---
+{% for post in site.posts %}
+## {{ post.title }}
 
+{{ post.excerpt }}
+
+[Full Article]({{ post.url | relative_url }})
+{% endfor %}
